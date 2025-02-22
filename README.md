@@ -1,4 +1,4 @@
-Yummy Scoops!
+GREEN VALLEY!
 It is a simple but elegant html, css and little js based web app. 
 
 About the web app:
